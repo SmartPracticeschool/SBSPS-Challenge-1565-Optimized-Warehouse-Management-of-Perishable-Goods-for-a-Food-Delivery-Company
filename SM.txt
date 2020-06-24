@@ -1,0 +1,13 @@
+In our Machine Learning Model we will predict the demand of goods for the next 10 weeks or more through our web application by taking the input of the previous years of data set of a particular company. 
+
+In our model of Warehouse Management , a company will be able to know the future demand of perishable goods. 
+
+By this prediction they will able to understand the goods sales and purchases, as this information will help the company to increase the profits of their company and more food delivery process will be more stable . 
+
+Also the wastage of some valuable perishable goods can be made minimal and thus losses can be reduced in the business. 
+
+For this we will be using machine learning algorithms like regression or tree based.
+
+we are trying to applying this algorithms on our project.
+
+Till now we have Gathered The information related to the Project  
